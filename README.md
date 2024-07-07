@@ -2,4 +2,8 @@
 
 All of the programming projects from *C Programming: A Modern Approach*.
 
-The purpose of this repo is to learn C.
+## Contents
+
+### Fundamentals
+1. Print a check mark.
+2. Compute the volume of a sphere.
