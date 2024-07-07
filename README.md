@@ -12,7 +12,7 @@ All of the programming projects from *C Programming: A Modern Approach*.
 - [x] f7.c: repay with bills
 - [x] f8.c: loan repayments calculator
 
-### 3: Formatted Input/Output
+### 3: Formatted Input/Output
 - [ ] dates.c: accept dates as one input and output as another
 - [ ] product.c: format product information entered by user
 - [ ] isbn.c: break down ISBN entered by user
