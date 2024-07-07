@@ -7,3 +7,4 @@ All of the programming projects from *C Programming: A Modern Approach*.
 ### Fundamentals
 1. Print a check mark.
 2. Compute the volume of a sphere.
+3. Add tax.
